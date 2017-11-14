@@ -1,0 +1,7 @@
+{
+  "name": "RavenTest",
+  "private": true,
+  "dependencies": {
+    "raven": "^2.2.1"
+  }
+}
